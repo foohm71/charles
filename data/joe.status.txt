@@ -1,0 +1,3 @@
+KR1: Latency down to 310ms, improvements from caching rollout.
+KR2: SLA at 99.92% YTD; still short due to May incident.
+KR3: Bug backlog reduced, 87% resolved within SLA.

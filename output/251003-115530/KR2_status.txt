@@ -1,0 +1,3 @@
+KR2: Achieve 99.95% uptime SLA (40%)
+- Current Status: SLA at 99.92% YTD; still short due to May incident.
+- Completion Percentage: 80%

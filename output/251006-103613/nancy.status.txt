@@ -1,0 +1,31 @@
+### Updated KR Status
+**Objective:** Launch new onboarding flow to increase user activation.
+
+**KR1 (30%):** Improve activation rate from 45% → 60%.
+- **Current Status:** The activation rate has improved from 45% to 53%, which is a positive trend towards the target of 60%.
+- **Completion:** 53.33%
+- **Blockers:** None
+- **Next Steps:** Continue monitoring activation rate and implement further improvements.
+
+**KR2 (30%):** Complete onboarding redesign by end of Q2.
+- **Current Status:** Wireframes are complete, and the development kickoff is scheduled for this week, indicating that the project is on track.
+- **Completion:** 50%
+- **Blockers:** Engineering bandwidth is stretched due to a parallel payments project.
+- **Next Steps:** Re-evaluate project priorities and timelines to ensure critical tasks are adequately resourced.
+
+**KR3 (40%):** Ship at least 3 usability tests with >80% positive feedback.
+- **Current Status:** 2 out of 3 usability tests have been completed, with feedback averaging 82% satisfaction.
+- **Completion:** 66.67%
+- **Blockers:** Need to secure additional QA resources.
+- **Next Steps:** Expedite the process of securing additional QA resources to ensure the third usability test is conducted without delays.
+
+### Identified Blockers and Reframed Perspectives
+- **Blocker:** Engineering bandwidth is stretched due to a parallel payments project.
+  - **Reframed Perspective:** While engineering resources are limited, this challenge highlights the importance of prioritizing tasks and possibly reallocating resources to ensure critical milestones are met.
+
+- **Blocker:** Need to secure additional QA resources.
+  - **Reframed Perspective:** The need for additional QA resources suggests an opportunity to enhance the quality and efficiency of the usability testing process.
+
+### Next Steps and Recommendations
+- Re-evaluate project priorities and timelines to ensure critical tasks are adequately resourced.
+- Expedite the process of securing additional QA resources to ensure the third usability test is conducted without delays.

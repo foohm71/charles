@@ -1,0 +1,4 @@
+KR1: Reduce p95 latency from 500ms → 250ms (20%)
+- Current Status: Latency reduced to 310ms.
+- Recent Updates: Successful rollout of caching reduced load by 25%.
+- Completion Percentage: 60%

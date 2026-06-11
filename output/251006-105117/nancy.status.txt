@@ -1,0 +1,29 @@
+### Updated KR Status
+**Objective:** Launch new onboarding flow to increase user activation.
+
+**KR1 (30%):** Improve activation rate from 45% → 60%.
+- **Current Status:** Currently at 53% activation; trending positively.
+- **Completion:** 53%
+- **Blockers:** Engineering bandwidth is stretched due to parallel payments project.
+- **Next Steps:** Coordinate with design on iteration #3 and secure additional QA resources.
+
+**KR2 (30%):** Complete onboarding redesign by end of Q2.
+- **Current Status:** Wireframes complete, dev kickoff this week (on track).
+- **Completion:** 50%
+- **Blockers:** None
+- **Next Steps:** Continue with development as planned.
+
+**KR3 (40%):** Ship at least 3 usability tests with >80% positive feedback.
+- **Current Status:** 2/3 usability tests completed, feedback averaging 82% satisfaction.
+- **Completion:** 66%
+- **Blockers:** None
+- **Next Steps:** Conduct the third usability test and analyze results.
+
+### Identified Blockers and Reframed Perspectives
+- **Blocker:** Engineering bandwidth is stretched due to parallel payments project.
+  - **Reframed Perspective:** Prioritize tasks and seek temporary resources to alleviate bandwidth issues.
+
+### Next Steps and Recommendations
+- Coordinate with design on iteration #3 and secure additional QA resources.
+- Continue with development as planned.
+- Conduct the third usability test and analyze results.

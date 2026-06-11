@@ -1,0 +1,15 @@
+Objective: Improve system reliability for core API.
+
+KR1(20%): Reduce p95 latency from 500ms → 250ms.
+Current Status: Latency down to 310ms, improvements from caching rollout.
+Completion: 75%
+
+KR2(40%): Achieve 99.95% uptime SLA.
+Current Status: SLA at 99.92% YTD; still short due to May incident.
+Completion: 80%
+
+KR3(40%): Resolve 90% of high-priority bugs within 7 days.
+Current Status: Bug backlog reduced, 87% resolved within SLA.
+Completion: 97%
+
+Overall Objective Completion: 86.2%

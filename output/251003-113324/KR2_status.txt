@@ -1,0 +1,10 @@
+Current Status: SLA at 99.92% YTD; still short due to May incident.
+
+Blockers and Challenges:
+1. **Process Obstacle**: The May incident has impacted the SLA, and there is a need for clarity on incident escalation ownership between SRE and Engineering teams.
+   - **Reframed Perspective**: This challenge highlights the importance of clear communication and defined roles, which can lead to more efficient incident management and prevention in the future.
+
+Actionable Solutions:
+- Draft and implement a shared incident response playbook to clarify roles and responsibilities.
+- Facilitate workshops or meetings between SRE and Engineering to ensure alignment and understanding.
+- Monitor and review incident management processes regularly to identify areas for improvement.

@@ -1,0 +1,25 @@
+Objective: Improve system reliability for core API.
+
+Key Results Status:
+- KR1 (20%): Reduce p95 latency from 500ms → 250ms.
+  - Current Status: Latency reduced to 310ms due to caching rollout.
+  - Completion: 80%
+  - Wins: Successful rollout of caching reduced load by 25%.
+  - Blockers: No explicit blockers mentioned.
+
+- KR2 (40%): Achieve 99.95% uptime SLA.
+  - Current Status: SLA at 99.92% YTD, short due to May incident.
+  - Completion: 80%
+  - Blockers:
+    - Challenge: Need clarity on incident escalation ownership between SRE and Eng.
+    - Reframed Perspective: Lack of clarity can delay response and resolution, affecting uptime.
+    - Suggested Solution: Draft a shared incident response playbook to clarify roles and propose it in the next leads sync.
+
+- KR3 (40%): Resolve 90% of high-priority bugs within 7 days.
+  - Current Status: 87% resolved within SLA.
+  - Completion: 97%
+  - Blockers: No explicit blockers mentioned.
+
+Next Steps and Recommendations:
+- Draft and propose a shared incident response playbook in the next leads sync to address the challenge in KR2.
+- Continue monitoring latency improvements and bug resolution rates to ensure sustained progress.

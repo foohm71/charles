@@ -1,0 +1,28 @@
+Objective: Improve system reliability for core API.
+
+KR1(20%): Reduce p95 latency from 500ms → 250ms.
+- Current Status: Latency down to 310ms.
+- Completion: 80% (from 500ms to 310ms, with 250ms as target)
+- Blockers & Challenges: 
+  - Technical: Further latency reduction may require more advanced optimization techniques beyond caching.
+  - Resource: Potential need for additional engineering resources to implement further optimizations.
+- Reframed Perspective: The current progress shows significant improvement, indicating that the team is on the right track. The challenge now is to identify and implement the next level of optimizations.
+- Suggested Actions: Conduct a technical review to identify additional optimization opportunities, possibly involving database query optimization or code refactoring.
+
+KR2(40%): Achieve 99.95% uptime SLA.
+- Current Status: SLA at 99.92% YTD.
+- Completion: 80% (based on current SLA performance)
+- Blockers & Challenges:
+  - Process: Lack of clarity on incident escalation ownership between SRE and Engineering teams.
+  - Coordination: Need for better coordination and communication during incidents.
+- Reframed Perspective: The gap in SLA is primarily due to a process issue rather than a technical one, which means it can be addressed with clearer communication and defined roles.
+- Suggested Actions: Finalize and implement the shared incident response playbook to ensure clear ownership and faster resolution during incidents.
+
+KR3(40%): Resolve 90% of high-priority bugs within 7 days.
+- Current Status: 87% resolved within SLA.
+- Completion: 96.67% (87% of 90% target)
+- Blockers & Challenges:
+  - Resource: Potential bottleneck in bug resolution due to limited engineering capacity.
+  - Process: Need for improved prioritization and tracking of high-priority bugs.
+- Reframed Perspective: The team is very close to achieving the target, indicating that current processes are effective but may need slight adjustments to reach full compliance.
+- Suggested Actions: Review current bug triage and resolution processes to identify any inefficiencies, and consider reallocating resources or adjusting priorities to ensure the remaining gap is closed.

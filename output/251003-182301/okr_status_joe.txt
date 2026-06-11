@@ -1,0 +1,22 @@
+Objective: Improve system reliability for core API.
+
+KR1(20%): Reduce p95 latency from 500ms → 250ms.
+Current Status: Latency down to 310ms.
+Completion: 76% (from 500ms to 310ms out of a target of 250ms)
+Blockers: No explicit blockers mentioned for KR1 in the updates.
+
+KR2(40%): Achieve 99.95% uptime SLA.
+Current Status: SLA at 99.92% YTD.
+Completion: 80% (99.92% out of 99.95%)
+Blockers: 
+- Incident escalation ownership between SRE and Eng needs clarity.
+Reframed Perspective: This challenge presents an opportunity to enhance cross-team collaboration and streamline incident management processes.
+Actionable Solution: Draft a shared incident response playbook and propose it in the next leads sync to clarify roles and responsibilities.
+
+KR3(40%): Resolve 90% of high-priority bugs within 7 days.
+Current Status: 87% resolved within SLA.
+Completion: 97% (87% out of 90%)
+Blockers: No explicit blockers mentioned for KR3 in the updates.
+
+Overall Objective Completion: 84.8%
+Next Steps: Focus on resolving the incident escalation ownership issue to improve SLA performance and continue monitoring bug resolution processes.

@@ -1,0 +1,4 @@
+Objective: Improve system reliability for core API.
+KR1(20%): Reduce p95 latency from 500ms → 250ms.
+KR2(40%): Achieve 99.95% uptime SLA.
+KR3(40%): Resolve 90% of high-priority bugs within 7 days.

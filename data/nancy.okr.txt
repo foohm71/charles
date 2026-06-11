@@ -1,0 +1,4 @@
+Objective: Launch new onboarding flow to increase user activation.
+KR1(30%): Improve activation rate from 45% → 60%.
+KR2(30%): Complete onboarding redesign by end of Q2.
+KR3(40%): Ship at least 3 usability tests with >80% positive feedback.

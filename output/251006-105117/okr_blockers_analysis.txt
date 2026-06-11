@@ -1,0 +1,31 @@
+### Blockers and Challenges Identification
+
+**KR1: Generate 1,000 MQLs (Marketing Qualified Leads) by quarter end.**
+- **Blockers:** No explicit blockers mentioned in the updates.
+- **Reframed Perspective:** The progress is described as "pacing well," indicating no immediate challenges.
+
+**KR2: Launch 2 targeted campaigns with >20% CTR.**
+- **Blockers:**
+  - The first campaign achieved only an 18% CTR, below the target of >20%.
+  - The second campaign is still in the creative review stage, indicating a delay in execution.
+- **Reframed Perspective:** The CTR shortfall in the first campaign suggests a need to reassess targeting or creative strategies. The delay in the second campaign's launch could be an opportunity to refine the approach based on learnings from the first.
+- **Actionable Solutions:**
+  - Analyze the first campaign's performance to identify areas for improvement.
+  - Expedite the creative review process for the second campaign to ensure timely launch.
+  - Consider A/B testing different creatives or targeting options to enhance CTR.
+
+**KR3: Host 3 webinars with >300 attendees each.**
+- **Blockers:**
+  - Scheduling conflicts with industry conferences are affecting webinar planning.
+- **Reframed Perspective:** The scheduling conflicts present an opportunity to collaborate with industry events or find alternative time slots that maximize attendance.
+- **Actionable Solutions:**
+  - Coordinate with industry conference organizers to explore partnership opportunities.
+  - Adjust webinar schedules to avoid conflicts and promote them as complementary to industry events.
+  - Engage with potential attendees early to gauge interest and preferred timings.
+
+### Summary
+- **KR1** is progressing well without significant blockers.
+- **KR2** faces challenges in meeting CTR targets and delays in campaign launches.
+- **KR3** is impacted by scheduling conflicts, requiring strategic adjustments.
+
+These insights are derived from the recent updates, focusing on identifying and addressing specific challenges in OKR execution.

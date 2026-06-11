@@ -1,0 +1,25 @@
+### Blockers and Challenges Analysis
+
+#### KR1: Generate 1,000 MQLs (Marketing Qualified Leads) by quarter end.
+- **Blockers:** No explicit blockers mentioned in the updates.
+- **Reframed Perspective:** The strong response from the LinkedIn campaign suggests that the current strategy is effective, and no immediate blockers are present.
+- **Actionable Solutions:** Continue leveraging successful channels like LinkedIn and explore additional platforms to maintain momentum.
+
+#### KR2: Launch 2 targeted campaigns with >20% CTR.
+- **Blockers:**
+  - The first campaign did not meet the >20% CTR target, achieving only 18%.
+  - The second campaign is still in the creative review stage, indicating a potential delay.
+- **Reframed Perspective:** The 18% CTR, while below target, indicates engagement and provides a baseline for optimization. The creative review stage for the second campaign suggests an opportunity to refine and improve before launch.
+- **Actionable Solutions:**
+  - Analyze the first campaign's performance to identify areas for improvement in targeting or creative.
+  - Expedite the creative review process for the second campaign to ensure timely launch.
+  - Consider A/B testing different creatives or messages to enhance CTR.
+
+#### KR3: Host 3 webinars with >300 attendees each.
+- **Blockers:**
+  - Scheduling conflicts with industry conferences are affecting the ability to host webinars.
+- **Reframed Perspective:** The successful completion of the first webinar with 380 attendees demonstrates strong interest and engagement, providing a solid foundation to build upon.
+- **Actionable Solutions:**
+  - Coordinate with industry calendars to avoid conflicts and maximize attendance.
+  - Explore alternative dates or formats (e.g., on-demand webinars) to accommodate potential attendees.
+  - Partner with industry influencers or organizations to co-host webinars, potentially increasing reach and attendance.

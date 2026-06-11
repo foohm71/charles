@@ -1,0 +1,3 @@
+KR1: Currently at 53% activation; trending positively.
+KR2: Wireframes complete, dev kickoff this week (on track).
+KR3: 2/3 usability tests completed, feedback averaging 82% satisfaction.

@@ -1,0 +1,22 @@
+Objective: Improve system reliability for core API.
+
+Overall Objective Score: 0.0
+
+KR1(20%):
+- Score: 80%
+- Weight: 20%
+- Rationale: Significant progress made with latency reduction, but further optimization is needed to reach the target.
+
+KR2(40%):
+- Score: 80%
+- Weight: 40%
+- Rationale: SLA performance is close to target, but process improvements are necessary to achieve full compliance.
+
+KR3(40%):
+- Score: 96.67%
+- Weight: 40%
+- Rationale: High-priority bug resolution is nearly at target, indicating effective processes with minor adjustments needed.
+
+Scoring Methodology:
+- The overall objective score is calculated by weighting each KR score by its respective weight and summing the results.
+- The low overall score indicates that while individual KRs show progress, the combined impact is not yet sufficient to meet the overall objective.

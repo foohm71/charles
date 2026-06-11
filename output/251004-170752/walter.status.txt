@@ -1,0 +1,32 @@
+### Updated KR Status
+**Objective:** Increase top-of-funnel leads for enterprise segment.
+
+**KR1 (20%)**: Generate 1,000 MQLs (Marketing Qualified Leads) by quarter end.
+- **Current Status:** 450 MQLs generated (45% of goal, pacing well).
+- **Completion:** 45%
+- **Blockers:** None identified.
+- **Next Steps:** Continue leveraging LinkedIn campaign.
+
+**KR2 (40%)**: Launch 2 targeted campaigns with >20% CTR.
+- **Current Status:** First campaign launched with 18% CTR, second campaign in creative review.
+- **Completion:** 40%
+- **Blockers:** First campaign CTR below target.
+- **Next Steps:** Optimize first campaign for better CTR, finalize second campaign.
+
+**KR3 (40%)**: Host 3 webinars with >300 attendees each.
+- **Current Status:** 1 webinar completed with 380 attendees.
+- **Completion:** 33%
+- **Blockers:** Scheduling conflicts with industry conferences.
+- **Next Steps:** Reschedule webinars to avoid conflicts.
+
+### Identified Blockers and Reframed Perspectives
+- **Blocker:** First campaign CTR below target.
+  - **Reframed Perspective:** Opportunity to analyze and optimize campaign strategies.
+- **Blocker:** Scheduling conflicts with industry conferences.
+  - **Reframed Perspective:** Chance to collaborate with industry events for better timing.
+
+### Next Steps and Recommendations
+- Continue leveraging LinkedIn campaign for MQLs.
+- Optimize first campaign for better CTR.
+- Finalize and launch the second campaign.
+- Reschedule webinars to avoid conflicts with industry conferences.

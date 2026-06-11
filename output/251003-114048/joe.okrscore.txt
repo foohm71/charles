@@ -1,0 +1,13 @@
+Overall Objective Score: 0.0
+
+Individual Key Result Scores and Weights:
+- KR1: 80% (Weight: 20%)
+- KR2: 80% (Weight: 40%)
+- KR3: 97% (Weight: 40%)
+
+Scoring Methodology and Rationale:
+The overall objective score is calculated based on the weighted average of the completion percentages of each Key Result. The formula used is:
+
+Objective Score = (KR1 score * KR1 weight + KR2 score * KR2 weight + KR3 score * KR3 weight) / 100
+
+In this case, the calculated score was 0.0, indicating a potential error in the calculation process. Please review the input data and calculation method to ensure accuracy.

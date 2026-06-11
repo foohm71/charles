@@ -1,0 +1,23 @@
+# OKR Scoring Multi-Agent System Dependencies
+
+# Core LangChain packages
+langchain>=0.3.0
+langchain-openai>=0.3.0
+langchain-community>=0.3.0
+
+# LangGraph for multi-agent workflows
+langgraph>=0.6.0
+
+# LangSmith for monitoring and debugging
+langsmith>=0.4.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Additional dependencies (automatically installed with above)
+# - openai
+# - tiktoken
+# - pydantic
+# - requests
+# - PyYAML
+# - SQLAlchemy

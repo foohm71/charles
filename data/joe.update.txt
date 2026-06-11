@@ -1,0 +1,3 @@
+Wins: Successful rollout of caching reduced load by 25%.
+Challenges: Need clarity on incident escalation ownership between SRE and Eng.
+Next Steps: Draft shared incident response playbook and propose in next leads sync.

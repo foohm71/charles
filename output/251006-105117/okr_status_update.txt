@@ -1,0 +1,28 @@
+# OKR Status Update for Joe
+
+## Objective: Improve system reliability for core API.
+
+### KR1: Reduce p95 latency from 500ms → 250ms.
+- **Current Status**: Latency reduced to 310ms.
+- **Completion**: 75% (since the target is 250ms and current is 310ms, significant progress has been made but not fully achieved).
+- **Updates**: Improvements from caching rollout.
+- **Blockers**: No explicit blockers mentioned for KR1 in the updates.
+
+### KR2: Achieve 99.95% uptime SLA.
+- **Current Status**: SLA at 99.92% YTD.
+- **Completion**: 80% (close to target but not fully achieved due to past incident).
+- **Updates**: Still short due to May incident.
+- **Blockers**: 
+  - **Challenge Identified**: Need clarity on incident escalation ownership between SRE and Eng.
+  - **Reframed Perspective**: This challenge presents an opportunity to improve cross-team collaboration and define clear roles and responsibilities.
+  - **Actionable Solution**: Draft a shared incident response playbook and propose it in the next leads sync to ensure alignment and clarity.
+
+### KR3: Resolve 90% of high-priority bugs within 7 days.
+- **Current Status**: 87% resolved within SLA.
+- **Completion**: 97% (very close to target, minor gap remaining).
+- **Updates**: Bug backlog reduced.
+- **Blockers**: No explicit blockers mentioned for KR3 in the updates.
+
+## Summary
+- **Overall Progress**: Significant progress has been made across all KRs, with KR2 and KR3 being very close to their targets.
+- **Next Steps**: Focus on resolving the challenge related to incident escalation ownership to improve SLA performance and ensure future reliability improvements.

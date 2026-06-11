@@ -1,0 +1,15 @@
+KR2 Status: 
+- Current SLA: 99.92%
+- Target SLA: 99.95%
+- Completion: 80%
+- Recent Improvement: None specified.
+
+Blockers and Challenges:
+- Challenge: Need clarity on incident escalation ownership between SRE and Eng.
+
+Reframed Perspective:
+- The lack of clarity in incident escalation ownership is a coordination issue that can be resolved with clear communication and defined roles.
+
+Actionable Solutions:
+- Draft a shared incident response playbook to clarify roles and responsibilities.
+- Propose the playbook in the next leads sync to ensure alignment and buy-in from all stakeholders.

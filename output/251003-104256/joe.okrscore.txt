@@ -1,0 +1,9 @@
+Overall Objective Score: 0.0
+
+Individual KR Scores and Weights:
+- KR1 (20%): 80%
+- KR2 (40%): 80%
+- KR3 (40%): 97%
+
+Scoring Methodology and Rationale:
+The overall objective score is calculated based on the weighted average of the completion percentages of each Key Result. Each KR is assigned a weight based on its importance to the overall objective. The scores for each KR are multiplied by their respective weights and summed to derive the overall objective score. The current score reflects the progress made towards improving system reliability for the core API, with particular attention to latency reduction, uptime SLA, and bug resolution efficiency.

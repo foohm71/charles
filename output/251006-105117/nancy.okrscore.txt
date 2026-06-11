@@ -1,0 +1,20 @@
+### Overall Objective Score
+**Objective:** Launch new onboarding flow to increase user activation.
+**Overall Objective Score:** 56.3%
+
+### Individual KR Scores and Weights
+- **KR1 (30%):** 53% completion
+- **KR2 (30%):** 50% completion
+- **KR3 (40%):** 66% completion
+
+### Scoring Methodology and Rationale
+The overall objective score is calculated by taking a weighted average of the completion percentages of each Key Result (KR). Each KR is assigned a weight based on its importance to the overall objective. The formula used is:
+
+Overall Objective Score = (KR1 Completion * KR1 Weight) + (KR2 Completion * KR2 Weight) + (KR3 Completion * KR3 Weight)
+
+For this objective:
+- KR1 contributes 30% to the overall score with a completion of 53%.
+- KR2 contributes 30% to the overall score with a completion of 50%.
+- KR3 contributes 40% to the overall score with a completion of 66%.
+
+The calculated overall objective score is 56.3%.

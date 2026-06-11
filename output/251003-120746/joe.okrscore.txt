@@ -1,0 +1,24 @@
+### Overall Objective Score
+
+- **Objective:** Improve system reliability for core API.
+- **Overall Objective Score:** 0.0
+
+### Individual KR Scores and Weights
+
+- **KR1 (20%):** 76% complete
+- **KR2 (40%):** 92% complete
+- **KR3 (40%):** 96.67% complete
+
+### Scoring Methodology and Rationale
+
+The overall objective score is calculated based on the weighted average of the completion percentages of each Key Result (KR). The weights are assigned based on the importance of each KR to the overall objective.
+
+- **KR1 Weight:** 20%
+- **KR2 Weight:** 40%
+- **KR3 Weight:** 40%
+
+The formula used for calculating the overall objective score is:
+
+Objective Score = (KR1 score * KR1 weight + KR2 score * KR2 weight + KR3 score * KR3 weight) / 100
+
+In this case, the calculated score is 0.0, indicating a need to review the calculation process or input data for accuracy.

@@ -1,0 +1,28 @@
+# OKR Analysis for Joe
+
+## Objective: Improve system reliability for core API.
+
+### KR1: Reduce p95 latency from 500ms → 250ms (20%)
+- **Current Status**: Latency reduced to 310ms.
+- **Achievements**: Successful rollout of caching reduced load by 25%.
+- **Blockers & Challenges**: No explicit blockers mentioned for KR1 in the updates.
+- **Reframed Perspective**: The caching rollout has been effective, but further optimization may be needed to reach the 250ms target.
+- **Actionable Solutions**: Continue monitoring and optimizing caching strategies, and explore additional performance improvements.
+
+### KR2: Achieve 99.95% uptime SLA (40%)
+- **Current Status**: SLA at 99.92% YTD.
+- **Achievements**: Significant progress made, but still short due to a May incident.
+- **Blockers & Challenges**: Need clarity on incident escalation ownership between SRE and Eng.
+- **Reframed Perspective**: The lack of clarity in incident escalation is a coordination issue that can be resolved with clear communication and defined roles.
+- **Actionable Solutions**: Draft a shared incident response playbook and propose it in the next leads sync to ensure alignment and clarity.
+
+### KR3: Resolve 90% of high-priority bugs within 7 days (40%)
+- **Current Status**: 87% of high-priority bugs resolved within SLA.
+- **Achievements**: Bug backlog significantly reduced.
+- **Blockers & Challenges**: No explicit blockers mentioned for KR3 in the updates.
+- **Reframed Perspective**: The team is close to the target, and continued focus on bug resolution processes will likely achieve the goal.
+- **Actionable Solutions**: Maintain the current momentum in bug resolution and consider additional resources or process improvements if needed to reach the 90% target.
+
+---
+
+Overall, the team is making good progress towards the objective of improving system reliability for the core API. Addressing the coordination issue in KR2 and maintaining focus on the current strategies for KR1 and KR3 will be key to achieving the set goals.

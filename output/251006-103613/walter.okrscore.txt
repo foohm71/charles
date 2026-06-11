@@ -1,0 +1,20 @@
+### Overall Objective Score
+**Objective:** Increase top-of-funnel leads for enterprise segment.
+**Overall Objective Score:** 34.1%
+
+### Individual KR Scores and Weights
+- **KR1 (20%)**: 45% completion
+- **KR2 (40%)**: 25% completion
+- **KR3 (40%)**: 33% completion
+
+### Scoring Methodology and Rationale
+The overall objective score is calculated by taking a weighted average of the completion percentages of each Key Result (KR). Each KR is assigned a weight based on its importance to the overall objective. The formula used is:
+
+Overall Objective Score = (KR1 Completion * KR1 Weight) + (KR2 Completion * KR2 Weight) + (KR3 Completion * KR3 Weight)
+
+For this objective:
+- KR1 contributes 20% to the overall score with a 45% completion rate.
+- KR2 contributes 40% to the overall score with a 25% completion rate.
+- KR3 contributes 40% to the overall score with a 33% completion rate.
+
+The calculated overall objective score is 34.1%, reflecting the current progress towards increasing top-of-funnel leads for the enterprise segment.

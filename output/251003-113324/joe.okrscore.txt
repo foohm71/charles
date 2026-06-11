@@ -1,0 +1,11 @@
+**Overall Objective Score:** Calculation issue encountered.
+
+**Individual KR Scores and Weights:**
+- **KR1:** 76% (Weight: 20%)
+- **KR2:** 80% (Weight: 40%)
+- **KR3:** 87% (Weight: 40%)
+
+**Scoring Methodology and Rationale:**
+- Each Key Result is weighted according to its impact on the overall objective.
+- Completion percentages are based on progress towards defined targets.
+- The overall objective score is calculated as a weighted average of the individual KR scores.

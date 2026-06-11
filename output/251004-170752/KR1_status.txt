@@ -1,0 +1,13 @@
+KR1 Status: 
+Current activation rate is at 53%, which is a positive trend towards the target of 60%. 
+
+Blockers Identified: 
+- Engineering bandwidth is stretched due to parallel payments project, which may impact the ability to further improve the activation rate.
+
+Reframed Perspective: 
+- This challenge presents an opportunity to prioritize tasks and potentially streamline processes to maintain focus on the most impactful activities.
+
+Suggested Solutions: 
+- Consider reallocating resources or adjusting timelines for the payments project to free up engineering bandwidth.
+- Explore automation or process improvements to reduce the engineering load.
+- Engage with cross-functional teams to identify areas where support can be provided to alleviate the bandwidth issue.

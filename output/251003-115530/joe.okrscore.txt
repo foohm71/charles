@@ -1,0 +1,21 @@
+### Overall Objective Score
+
+**Objective:** Improve system reliability for core API.
+
+- **Overall Objective Score:** 78.8%
+
+### Individual KR Scores and Weights
+
+- **KR1 (20% weight):** 80% completion
+- **KR2 (40% weight):** 70% completion
+- **KR3 (40% weight):** 87% completion
+
+### Scoring Methodology and Rationale
+
+The overall objective score is calculated based on the weighted average of the completion percentages of each Key Result. Each KR is assigned a weight reflecting its importance to the overall objective. The scores are then multiplied by their respective weights and summed to provide a comprehensive measure of progress towards the objective.
+
+- **KR1:** Focuses on reducing latency, with significant progress made through caching strategies.
+- **KR2:** Aims to achieve high uptime, with challenges in incident management impacting the score.
+- **KR3:** Targets timely bug resolution, with near-target performance indicating effective prioritization.
+
+The calculated score reflects the current status and progress towards achieving the objective, highlighting areas of success and opportunities for improvement.
